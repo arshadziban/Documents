@@ -1,0 +1,15 @@
+# Adobe InDesign files
+*.indd
+*.idml
+*.indt
+
+# Temporary and backup files created by InDesign
+~*.idlk
+~*.tmp
+~*.bak
+
+# Mac system files (if applicable)
+.DS_Store
+
+# Windows system files (if applicable)
+Thumbs.db
