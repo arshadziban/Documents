@@ -13,3 +13,7 @@
 
 # Windows system files (if applicable)
 Thumbs.db
+Desktop.ini
+
+# Ignore HTML files
+*.html
